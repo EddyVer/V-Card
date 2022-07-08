@@ -1,0 +1,20 @@
+.section{
+    display: inline;
+    /* display: flex; */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 200px;
+    max-width: 300px;
+}
+.positionFlex{
+    align-self: center;
+}
+
+
+#imageM{
+    background-image: url("file:///home/melonde-zeus/accets/1.jpg");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: left;
+}
